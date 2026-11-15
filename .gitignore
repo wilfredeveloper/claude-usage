@@ -1,0 +1,4 @@
+data/
+report/
+cron.log
+__pycache__/
